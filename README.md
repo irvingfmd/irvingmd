@@ -5,10 +5,6 @@ I'm passionate about front-end development
   
 
 ###### I am currently training myself in a self-taught way, thus obtaining new knowledge and contributing it to the developer community 📚  
-  
-
-<br/>  
-
 
 ## Technologies  
 ##### **<div align="center">HTML5 | CSS3 | JavaScript | WordPress | Bootstrap | Tailwind CSS | PHP | MySQL | SQL Server</div>**  
