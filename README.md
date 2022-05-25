@@ -12,12 +12,9 @@ I'm passionate about front-end development
 
 ## Technologies  
 ##### **<div align="center">HTML5 | CSS3 | JavaScript | WordPress | Bootstrap | Tailwind CSS | PHP | MySQL | SQL Server</div>**  
-  
 
 <br/>  
-
-
-## Contacts  
+ 
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/irvingfmd/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -30,19 +27,11 @@ I'm passionate about front-end development
 </a>  
 </div>  
   
-
 <br/>  
-
-
-## Other  
+  
 ###### **<div align="center">console.log("Visits");</div>**  
   
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=irvingfmd&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
